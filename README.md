@@ -1,4 +1,4 @@
-# doges-candy-clock
+# DogesCandyClock
 Original version copied from imooc-- liuyubobobo  , I improve the details and add my own ideas. 
 as a fresh man in the font-end develop area. I'm glad to receive all your ideas.
 
