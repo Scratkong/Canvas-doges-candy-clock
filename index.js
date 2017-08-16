@@ -48,7 +48,7 @@
     	    	run=false; //停止计时到时效果
     	    	timesup.style.bottom = -100+"px";
 	    		window.clearInterval(atimer);
-	    		window.clearInterval(ctimer);
+	    		//window.clearInterval(ctimer);
 	    		window.clearInterval(timer);
 	    		timer=setInterval(
 	    		    	
